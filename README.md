@@ -21,6 +21,10 @@ We can't serve as a local file when we use fetch, so to run the tests locally, u
 
 - [Web Server for Chrome Extension](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb)
 
+## API
+
+- [Internet Chuck Norris Database API](http://www.icndb.com/)
+
 ## Benefits
 
 - No build tools required
@@ -33,9 +37,10 @@ We can't serve as a local file when we use fetch, so to run the tests locally, u
 - [js-e1](https://github.com/profcase/js-e1)
 - [js-gui-basic](https://github.com/profcase/js-gui-basic)
 - [js-gui](https://github.com/profcase/js-gui)
-- [js-gui-with-tests](https://github.com/profcase/js-gui-with-tests)
-- [js-gui-pwa-fact](https://github.com/profcase/js-gui-pwa-fact)
+- [js-gui-ajax](https://github.com/profcase/js-gui-ajax)
 - [js-gui-storage](https://github.com/profcase/js-gui-storage)
+- [js-gui-with-tests](https://github.com/profcase/js-gui-with-tests)
+- [js-gui-pwa-fact](https://github.com/denisecase/js-gui-pwa-fact)
 - [js-gui-vue](https://github.com/denisecase/js-gui-vue)
 - [node-server](https://github.com/profcase/node-server)
 - [todo-server-jwt](https://github.com/profcase/todo-server-jwt)

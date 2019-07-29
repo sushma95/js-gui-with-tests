@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>QUnit JS-GUI-WITH-TESTS</title>
+
+  <link rel="stylesheet" href="https://code.jquery.com/qunit/qunit-2.9.2.css">
+
+</head>
+
+<body>
+
+  <div id="qunit"></div>
+  <div id="qunit-fixture"></div>
+
+  <footer>&#9889; Important - the app should be hosted to test.
+    Running locally, try the <a
+      href="https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb?hl=en">Web
+      Server for Chrome extension</a>.
+  </footer>
+
+  <!-- qunit code -->
+  <script defer src="https://code.jquery.com/qunit/qunit-2.9.2.js"></script>
+
+  <!-- include source code to be tested -->
+  <script defer src="../src/main.js"></script>
+
+  <!-- include test code -->
+  <script defer src="main.test.js"></script>
+
+</body>
+
+</html>
