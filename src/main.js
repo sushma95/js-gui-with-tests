@@ -1,4 +1,4 @@
-const add = (x, y) => { return x + y }
+const add = (x, y) => { return x + 2*y }
 
 const validate = async (event) => {
   console.log(`triggered validate on ${event.target.id}`)
