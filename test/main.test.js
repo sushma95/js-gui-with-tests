@@ -8,7 +8,7 @@ QUnit.test('TEST add', assert => {
 
 QUnit.config.autostart = false  // sync = false; start after loading html
 
-// This script, calls when the page loads, reaches out to the app that we wish to test
+// This script, called when the page loads, reaches out to the app that we wish to test
 // It basically pastes the contents of that page into *this* web page, whew! This shows
 // how we manipulate the DOM.
 
